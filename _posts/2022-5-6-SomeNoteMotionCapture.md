@@ -20,10 +20,6 @@ $ a^{1000}=1998 $
 
 In this Post I will show how to install XNect and Run the demo in C/C++ Library provided by xNect Team.    
 
-
-
 ## 1.1流程图
 
-![](D:\code\github_personal\assets\images\nvidia_info.jpg)
-
-
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/nvidia_info.jpg)
