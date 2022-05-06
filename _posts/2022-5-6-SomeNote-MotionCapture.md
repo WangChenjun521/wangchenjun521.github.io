@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Some note about 3D Motion Capture "
+title: "Some note about 3D Motion Capture based on RGB-D Camera"
 categories:
-
-- Motion Capture
-  tags:
-- Motion Capture
-  excerpt: wait for some moment
-  comments: true
+  - Machine Learning
+tags:
+  - Machine Learning
+excerpt: wait for some moment
+comments: true
 ---
 
 # 一些文章
