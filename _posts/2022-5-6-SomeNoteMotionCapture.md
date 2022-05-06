@@ -7,7 +7,12 @@ tags:
   - Machine Learning
 excerpt: wait for some moment
 comments: true
+
 ---
+
+In this Post I will show how to install [XNect](https://gvv.mpi-inf.mpg.de/projects/XNect/) and Run the demo in C/C++ Library provided by xNect Team.   
+
+
 
 # 一些文章
 
