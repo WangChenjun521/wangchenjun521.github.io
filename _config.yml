@@ -1,5 +1,4 @@
 # Dependencies
-remote_theme: fongandrew/hydeout
 markdown:         kramdown
 highlighter:      rouge
 
