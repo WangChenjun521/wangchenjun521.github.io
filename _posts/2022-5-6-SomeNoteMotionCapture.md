@@ -16,7 +16,7 @@ In this Post I will show how to install [XNect](https://gvv.mpi-inf.mpg.de/proje
 
 ### Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image
 
-$ a^{1000}=199 $
+$ a^{1000}=1998 $
 
 In this Post I will show how to install XNect and Run the demo in C/C++ Library provided by xNect Team.    
 
