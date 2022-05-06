@@ -18,4 +18,6 @@ In this Post I will show how to install [XNect](https://gvv.mpi-inf.mpg.de/proje
 
 $a^{10}=100$
 
-## 
+In this Post I will show how to install XNect and Run the demo in C/C++ Library provided by xNect Team.    
+
+
