@@ -3,13 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Anil Kunchala
+title:            Chenjun Wang
 description:      'a <i> Tinkerers </i> log about his experiments with few things he came across'
-url:              https://anilkunchalaece.github.io
+url:              https://wangchenjun521.github.io/
 
 author:
-  name:           'Anil Kunchala'
-  url:            https://twitter.com/anilkunchalaece
+  name:           'Chenjun Wang'
+  url:            https://wangchenjun521.github.io/
 
 paginate:         5
 # paginate_path:    '/page:num'
