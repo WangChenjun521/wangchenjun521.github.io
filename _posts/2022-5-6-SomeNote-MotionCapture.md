@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "Some note about 3D Motion Capture based on RGB-D Camera"
 categories:
@@ -9,7 +8,6 @@ categories:
 - Motion Capture
   excerpt: wait for some moment
   comments: true
-
 ---
 
 # 一些文章
