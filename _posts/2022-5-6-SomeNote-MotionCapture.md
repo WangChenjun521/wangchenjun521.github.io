@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some note about 3D Motion Capture based on RGB-D Camera"
+title: "Some note about 3D Motion Capture "
 categories:
 
 - Motion Capture
