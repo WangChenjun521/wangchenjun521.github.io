@@ -28,4 +28,11 @@ In this Post I will show how to install XNect and Run the demo in C/C++ Library 
 
 <img title="" src="https://wangchenjun521.github.io/assets/images/test.png" alt="" data-align="inline">
 
+## 1.2 试一下表格
+
+| 名称    | 特点   | 优点  | 缺点 |
+| ----- | ---- | --- | ------------------------------ |
+| 单目RGB | rgb  | 便宜  | 遮挡                             |
+| RGBD  | rgbd | 效果好 | 贵                              |
+
 
