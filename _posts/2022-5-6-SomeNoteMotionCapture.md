@@ -22,4 +22,4 @@ In this Post I will show how to install XNect and Run the demo in C/C++ Library 
 
 ## 1.1流程图
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/nvidia_info.jpg)
+![image](https://wangchenjun521.github.io/assets/images/nvidia_info.jpg)
