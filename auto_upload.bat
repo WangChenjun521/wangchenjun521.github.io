@@ -1,4 +1,4 @@
 git add .
-git pull origin main
+git pull origin master
 git commit -m "auto update"
-git push origin main
+git push origin master
