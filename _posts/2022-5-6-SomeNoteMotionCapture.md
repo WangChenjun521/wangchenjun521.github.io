@@ -2,9 +2,9 @@
 layout: post
 title: "Some note about 3D Motion Capture based on RGB-D Camera"
 categories:
-  - Machine Learning
+  - Motion Capture
 tags:
-  - Machine Learning
+  - Motion Capture
 excerpt: wait for some moment
 comments: true
 
@@ -12,15 +12,8 @@ comments: true
 
 In this Post I will show how to install [XNect](https://gvv.mpi-inf.mpg.de/projects/XNect/) and Run the demo in C/C++ Library provided by xNect Team.   
 
-
-
 # 一些文章
 
 ### Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image
 
-
-
 ## 
-
-
-
