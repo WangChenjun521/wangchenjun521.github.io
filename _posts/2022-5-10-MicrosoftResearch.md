@@ -33,7 +33,7 @@ comments: true
 
 将复杂的姿态估计问题，转化为更简单的每个像素的分类问题
 
-### 2. []
+### 2. [Efficient regression of general-activity human poses from depth images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126270)
 
 
 
