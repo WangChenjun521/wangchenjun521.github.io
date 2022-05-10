@@ -15,7 +15,7 @@ comments: true
 
 一、 一些文章
 
-### 1. Real-Time Human Pose Recognition in Parts from Single Depth Images
+### 1. [Real-Time Human Pose Recognition in Parts from Single Depth Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995316)
 
 (CVPR 2011    Microsoft Research Cambridge & Xbox Incubation)   
 
