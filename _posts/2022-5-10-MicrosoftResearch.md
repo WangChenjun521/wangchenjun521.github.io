@@ -30,13 +30,15 @@ comments: true
 
 ![](https://wangchenjun521.github.io/assets/images/2022_05_10/001.png)
 
+focus on localizing different body parts
+
 将复杂的姿态估计问题，转化为更简单的每个像素的分类问题
 
 ### （2）效果图
 
 ![](https://wangchenjun521.github.io/assets/images/2022_05_10/002.png)
 
-### 2. [Efficient regression of general-activity human poses from depth images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126270)
+## 2. [Efficient regression of general-activity human poses from depth images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126270)
 
 一种基于 Hough 森林从深度图像进行一般活动人体姿态估计的方法
 
@@ -45,5 +47,19 @@ comments: true
 工作的关键方面包括：**直接从原始深度图像回归，不使用任意中间表示**； 适用于一般运动（不限于特定活动）以及定位闭塞和可见身体关节的能力。
 
 实验结果表明，我们的方法在几个数据集上产生了最先进的结果，包括具有挑战性的 MSRC-5000 姿态估计测试集，速度约为 **每秒200 帧** 。 轮廓的结果表明对其他成像方式具有更广泛的适用性。
+
+
+
+指出了分割方法缺点：
+
+      (a) 身体部分需要跟关节点大致对齐
+
+      (b) 表面分割模式位于表面，而关节位于体内
+
+      (c) 当相关部分被遮挡时，无法估计关节的位置。
+
+### （1）流程图
+
+
 
 
