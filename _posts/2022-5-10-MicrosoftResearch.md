@@ -5,7 +5,7 @@ categories:
   - Motion Capture
 tags:
   - Motion Capture
-excerpt: wait for some moment
+excerpt: Microsoft Research相关论文 以及一些相关的整理
 comments: true
 
 
@@ -22,6 +22,10 @@ comments: true
 
 
 ![](https://wangchenjun521.github.io/assets/images/2022_05_10/1.png)
+
+将复杂的姿态估计问题，转化为更简单的每个像素的分类问题
+
+### 2. []
 
 
 
