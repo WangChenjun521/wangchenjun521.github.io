@@ -8,8 +8,21 @@ tags:
 excerpt: wait for some moment
 comments: true
 
+
 ---
 
-# 1. 一些文章
+下面是Microsoft Research相关论文 以及一些相关的整理
 
-### Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image
+一、 一些文章
+
+### 1. Real-Time Human Pose Recognition in Parts from Single Depth Images
+
+(CVPR 2011    Microsoft Research Cambridge & Xbox Incubation)   
+
+
+
+
+
+
+
+
