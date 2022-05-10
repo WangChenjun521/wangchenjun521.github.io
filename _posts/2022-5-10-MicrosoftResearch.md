@@ -48,8 +48,6 @@ focus on localizing different body parts
 
 实验结果表明，我们的方法在几个数据集上产生了最先进的结果，包括具有挑战性的 MSRC-5000 姿态估计测试集，速度约为 **每秒200 帧** 。 轮廓的结果表明对其他成像方式具有更广泛的适用性。
 
-
-
 指出了分割方法缺点：
 
       (a) 身体部分需要跟关节点大致对齐
@@ -58,7 +56,11 @@ focus on localizing different body parts
 
       (c) 当相关部分被遮挡时，无法估计关节的位置。
 
-### （1）流程图
+方法：结合了下面两篇
+
+ Class-specific ***Hough forests** for object detection. In PAMI. IEEE, 2009
+
+ Human pose estimation with **implicit shape models**.
 
 
 
